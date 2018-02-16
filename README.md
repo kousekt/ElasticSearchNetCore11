@@ -1,5 +1,5 @@
 # ElasticSearchNetCore11
-ElasticSearch example running on .NET Core 1.1
+ElasticSearch example running on .NET Core 1.1 (this should also work on .NET Core 2.0 too)
 
 This is a crude quick spike showing how to use ElasticSearch to do some features within a .NET Core 1.1 WebApp.
 
