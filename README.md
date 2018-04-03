@@ -21,4 +21,8 @@ https://youtu.be/Z98Nz7O6vzs
 
 Hope this helps anyone out there who needs to get ElasticSearch started up and going quickly.
 
+Blog post
+
+https://tbsoftware.wordpress.com/2018/02/16/elasticsearch-on-windows/
+
 
